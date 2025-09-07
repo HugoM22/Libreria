@@ -15,7 +15,7 @@ public class BookRepositorio {
         Book estrella = new Book(1, "Mara debe enfrentar una acusación de violación contra su hermano y un trauma propio, aborda consentimiento y culpa con mucha sensibilidad.",
                 2019,"Juvenil", 296,"Ashley Herring Blake","Hecha de Estrellas");
         Book animalitos = new Book(2,"Dos niñxs montan una “funeraria” para animalitos y, con humor tierno, exploran la muerte y los rituales."
-                ,2008,"Infatil",48,"Ulf Nilsson","Tantos Animalitos Muertos");
+                ,2008,"Infantil",48,"Ulf Nilsson","Tantos Animalitos Muertos");
         Book principito = new Book(3,"Fábula poética sobre amistad, pérdida y mirada infantil al mundo; ilustrada por el autor."
                 , 1943,"Infantil",100,"Antoine de Saint-Exupéry","El principito");
         Book matilda = new Book(4,"Una niña genial, padres horribles, directora temible y un poder inesperado; clásico irreverente.",

@@ -38,8 +38,8 @@ public class DetailActivity extends AppCompatActivity {
         if(book != null){
             tvTitulo.setText(book.getTitulo());
             tvAutor.setText(book.getAutor());
-            tvYear.setText(book.getYear());
-            tvPaginas.setText(book.getPaginas() + "pag");
+            tvYear.setText(String.valueOf(book.getYear()));
+            tvPaginas.setText(String.valueOf(book.getPaginas() + "pag"));
             tvGenero.setText(book.getGenero());
             tvDescripcion.setText(book.getDescripcion());
             ivImg.setImageResource(android.R.drawable.ic_menu_gallery);

@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Libreria</string>
-    <string name="conver_cd">Portada del Libro</string>
+    <string name="cover_cd">Portada del Libro</string>
 </resources>
